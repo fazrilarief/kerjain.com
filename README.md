@@ -23,4 +23,6 @@ We welcome contributions! If you have ideas for improvement or encounter issues,
 
 ## Demo
 
-[Demo Live](https://fazrilarief.github.io/kerjain.com/)
+Demo Live : [kerjain.com](https://fazrilarief.github.io/kerjain.com/)
+
+[](assets/images/demo-live.png)
