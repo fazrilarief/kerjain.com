@@ -1,6 +1,6 @@
 # kerjain.com
 
-Welcome to the kerjain.com project repository! This web application is designed to simplify the job search process, connecting job seekers with diverse opportunities and providing a platform for employers to post openings.
+Simple web landing page for submission task to create website, from dicoding class - Belajar Dasar Pemrograman Web
 
 ## Features
 
@@ -21,9 +21,6 @@ To get started with Kerjain.com, follow these steps:
 
 We welcome contributions! If you have ideas for improvement or encounter issues, please submit a pull request or open an issue.
 
-## License
+## Demo
 
-This project is licensed under the [MIT License](LICENSE).
-
-Happy job hunting!
-
+[Demo Live](https://fazrilarief.github.io/kerjain.com/)
