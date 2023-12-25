@@ -2,11 +2,11 @@
 
 Simple web landing page for submission task to create website, from dicoding class - Belajar Dasar Pemrograman Web
 
+![](assets/images/demo-live.png)
+
 ## Demo
 
 Demo Live : [kerjain.com](https://fazrilarief.github.io/kerjain.com/)
-
-![](assets/images/demo-live.png)
 
 ## Features
 
