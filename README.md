@@ -2,6 +2,12 @@
 
 Simple web landing page for submission task to create website, from dicoding class - Belajar Dasar Pemrograman Web
 
+## Demo
+
+Demo Live : [kerjain.com](https://fazrilarief.github.io/kerjain.com/)
+
+![](assets/images/demo-live.png)
+
 ## Features
 
 - **Job Search:** Explore a wide range of job listings from various industries.
@@ -21,8 +27,3 @@ To get started with Kerjain.com, follow these steps:
 
 We welcome contributions! If you have ideas for improvement or encounter issues, please submit a pull request or open an issue.
 
-## Demo
-
-Demo Live : [kerjain.com](https://fazrilarief.github.io/kerjain.com/)
-
-![](assets/images/demo-live.png)
