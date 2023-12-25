@@ -1,6 +1,6 @@
 # kerjain.com
 
-Simple web landing page for submission task to create website, from dicoding class - Belajar Dasar Pemrograman Web
+Simple web landing page for submission task to create website, from dicoding class - Belajar Dasar Pemrograman Web [kerjain.com](https://fazrilarief.github.io/kerjain.com/)
 
 ![](assets/images/demo-live.png)
 
