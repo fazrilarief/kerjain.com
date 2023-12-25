@@ -13,7 +13,7 @@ Simple web landing page for submission task to create website, from dicoding cla
 
 To get started with Kerjain.com, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/kerjain.git`
+1. Clone the repository: `git clone https://github.com/fazrilarief/kerjain.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 
